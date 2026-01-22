@@ -1,3 +1,5 @@
+import { PageLayout } from "../layouts/PageLayout";
+
 export default function ListPage() {
-  return <div>ListPage</div>;
+  return <PageLayout>ListPage</PageLayout>;
 }

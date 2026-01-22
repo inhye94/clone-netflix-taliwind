@@ -1,3 +1,5 @@
+import { PageLayout } from "../layouts/PageLayout";
+
 export const BookmarkPage = () => {
-  return <div>BookmarkPage</div>;
+  return <PageLayout>BookmarkPage</PageLayout>;
 };
