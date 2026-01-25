@@ -1,0 +1,96 @@
+{
+  "tv": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/g58VzimThJuoJl0bENQ1DhAhrSe.jpg",
+        "genre_ids": [80, 10764],
+        "id": 71908,
+        "origin_country": ["KR"],
+        "original_language": "ko",
+        "original_name": "크라임씬",
+        "overview": "A mystery game show in which six celebrity players become suspects in a murder case and they have to prove themselves innocent while at the same time try to solve the mystery of who killed the victim among them like the game 'Clue'.",
+        "popularity": 5.1436,
+        "poster_path": "/9cto9OAYhk43L1OrjcKisviDtTl.jpg",
+        "first_air_date": "2014-05-10",
+        "name": "Crime Scene",
+        "vote_average": 8.2,
+        "vote_count": 9
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/i0kPV83Py7q0mGWiDBPLdzljeQX.jpg",
+        "genre_ids": [10764, 80],
+        "id": 298698,
+        "origin_country": ["KR"],
+        "original_language": "ko",
+        "original_name": "크라임씬 제로",
+        "overview": "In this mystery showdown, players engage in layered scenarios as either suspects or detectives — each striving to outsmart others and uncover the truth.",
+        "popularity": 3.0176,
+        "poster_path": "/92l9QX3bclETQGXyB8dVf7igveI.jpg",
+        "first_air_date": "2025-09-23",
+        "name": "Crime Scene Zero",
+        "vote_average": 9.3,
+        "vote_count": 6
+      }
+    ],
+    "total_pages": 1,
+    "total_results": 2
+  },
+  "movie": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/accTIUygtg24TM7wT7uQMMdvYUW.jpg",
+        "genre_ids": [35],
+        "id": 673593,
+        "original_language": "en",
+        "original_title": "Mean Girls",
+        "overview": "New student Cady Heron is welcomed into the top of the social food chain by the elite group of popular girls called ‘The Plastics,’ ruled by the conniving queen bee Regina George and her minions Gretchen and Karen. However, when Cady makes the major misstep of falling for Regina’s ex-boyfriend Aaron Samuels, she finds herself prey in Regina’s crosshairs. As Cady sets to take down the group’s apex predator with the help of her outcast friends Janis and Damian, she must learn how to stay true to herself while navigating the most cutthroat jungle of all: high school.",
+        "popularity": 5.1937,
+        "poster_path": "/fbbj3viSUDEGT1fFFMNpHP1iUjw.jpg",
+        "release_date": "2024-01-10",
+        "title": "Mean Girls",
+        "video": false,
+        "vote_average": 5.898,
+        "vote_count": 686
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/6DqzZaTAzFrT53JtRt3MLKs0Y9i.jpg",
+        "genre_ids": [18, 35],
+        "id": 10625,
+        "original_language": "en",
+        "original_title": "Mean Girls",
+        "overview": "Cady Heron is a hit with The Plastics, the A-list girl clique at her new school, until she makes the mistake of falling for Aaron Samuels, the ex-boyfriend of alpha Plastic Regina George.",
+        "popularity": 11.727,
+        "poster_path": "/2ZkuQXvVhh45uSvkBej4S7Ix1NJ.jpg",
+        "release_date": "2004-04-30",
+        "title": "Mean Girls",
+        "video": false,
+        "vote_average": 7.222,
+        "vote_count": 9285
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/9A4LywU6zVpkVwjk4EjNwUH3RGs.jpg",
+        "genre_ids": [35],
+        "id": 51481,
+        "original_language": "en",
+        "original_title": "Mean Girls 2",
+        "overview": "Confident senior Jo begins the new school year by breaking her own cardinal rule: don't get involved in girl drama. but when she sees timid Abby preyed upon by Queen Bee Mandi and her minions, she takes sides in a viciously funny girl-world-war that turns North Shore High School upside down.",
+        "popularity": 2.2384,
+        "poster_path": "/34zKHT98ZgSCz6ag1ZNBul7f1Wu.jpg",
+        "release_date": "2011-01-23",
+        "title": "Mean Girls 2",
+        "video": false,
+        "vote_average": 5.251,
+        "vote_count": 1279
+      }
+    ],
+    "total_pages": 1,
+    "total_results": 3
+  }
+}
